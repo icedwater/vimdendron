@@ -9,6 +9,8 @@ Today is not that day.
 ## Ingredients
 
  - [ ] create a directory, initialize a workspace and a first vault
+    - [x] vim function to create directory and initialize a workspace there
+    - [ ] create function to set up vault inside a given workspace
  - [ ] lookup notes in a vault
  - [ ] delete notes from a vault
  - [ ] show tree view of vault using netrw, or something?
