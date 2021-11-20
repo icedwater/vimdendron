@@ -16,4 +16,7 @@ Today is not that day.
  - [ ] show tree view of vault using netrw, or something?
     - [ ] survey tree view plugins... hope i don't have to code my own
 
+## What's ready
 
+ - `dendron.vim` contains `DendronCreateWorkspace()` which can start a new
+   workspace in a given directory if a string is provided. First cut.
